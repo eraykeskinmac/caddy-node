@@ -1,4 +1,4 @@
-#!/bind/bash
+#!/bin/bash
 
 echo "Pulling"
 git pull
