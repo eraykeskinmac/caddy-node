@@ -1,4 +1,4 @@
-FROM node:14-alphine
+FROM node:14-alpine
 
 ADD package.json /tmp/package.json
 
